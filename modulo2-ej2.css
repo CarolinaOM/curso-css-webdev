@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  padding: 40px;
+  background-color: #f4f4f9;
+}
+
+/* 1. SELECTOR DE ID (#): Es ÚNICO. */
+#titulo-principal {
+  color: #8e44ad;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}
+
+/* 2. SELECTOR DE CLASE (.): Se puede repetir cuantas veces quieras en diferentes elementos */
+.tarjeta {
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+}
+
+/* Modificador de clase: Alerta */
+.alerta {
+  background-color: #e74c3c; /* Rojo */
+}
+
+/* Modificador de clase: Éxito */
+.exito {
+  background-color: #2ecc71; /* Verde */
+}
