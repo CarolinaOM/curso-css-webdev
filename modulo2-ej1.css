@@ -1,0 +1,22 @@
+/* 1. SELECTOR UNIVERSAL: Afecta a TODAS las etiquetas de la página */
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+/* 2. SELECTOR DE TIPO (ETIQUETA): Afecta únicamente a todas las etiquetas 'h1' */
+h1 {
+  color: #2980b9;
+  font-size: 2rem;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 10px;
+}
+
+/* 3. SELECTOR DE TIPO (ETIQUETA): Afecta a todas las etiquetas 'p' */
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  background-color: #ecf0f1;
+  padding: 10px;
+  border-radius: 4px;
+}
