@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 40px;
+  background-color: #f4f4f9;
+}
+
+h1 {
+  font-size: 1.4rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.caja-areas {
+  width: 350px;
+  background-color: #3498db;
+  color: white;
+  padding: 30px; 
+  border: 10px solid #e67e22; 
+  margin-bottom: 30px; 
+  font-weight: bold;
+}
+
+.otra-caja {
+  width: 350px;
+  background-color: #9b59b6;
+  color: white;
+  padding: 20px;
+  border: 5px solid #8e44ad;
+}

@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 40px;
+  background-color: #f4f4f9;
+}
+
+h1 {
+  font-size: 1.4rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.caja {
+  padding: 20px;
+  margin-bottom: 25px;
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+.extrinsica {
+  width: 280px;
+  background-color: #9b59b6;
+  border: 4px solid #8e44ad;
+}
+
+.intrinsica {
+  width: min-content;
+  background-color: #1abc9c;
+  border: 4px solid #16a085;
+  white-space: nowrap; 
+}
