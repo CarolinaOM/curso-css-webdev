@@ -4,7 +4,7 @@
   color: #333;
 }
 
-/* 2. SELECTOR DE TIPO (ETIQUETA): Afecta únicamente a todas las etiquetas 'h1' */
+/* 2. SELECTOR DE ETIQUETA: Afecta a todas las etiquetas h1 */
 h1 {
   color: #2980b9;
   font-size: 2rem;
@@ -12,7 +12,7 @@ h1 {
   padding-bottom: 10px;
 }
 
-/* 3. SELECTOR DE TIPO (ETIQUETA): Afecta a todas las etiquetas 'p' */
+/* 3. SELECTOR DE ETIQUETA: Afecta a todas las etiquetas p */
 p {
   font-size: 1.1rem;
   line-height: 1.6;

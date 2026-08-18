@@ -14,7 +14,7 @@ h1 {
   margin-bottom: 15px;
 }
 
-/* Selecciona elementos basándose en sus atributos entre corchetes [] */
+/* Selecciona elementos basándose en sus atributos entre corchetes */
 input[type="text"] {
   width: 100%;
   padding: 10px;
